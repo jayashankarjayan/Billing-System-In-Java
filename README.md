@@ -1,4 +1,4 @@
-# Billing System
+# Introduction
 A billing sytem made in Swing Java with MySQL database implemented for backend.
 
 # Requirements
